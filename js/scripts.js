@@ -18,3 +18,9 @@ else if(a===b || b===c || a===c) {
 }
 }
 triangleTracker();
+
+var Triangles = [
+    "equilateral",
+    "isosceles",
+    "scalene"
+];
